@@ -1,6 +1,6 @@
 # Component-Separation
 
-### PPT link: 
+### Link to the Slides: 
 https://docs.google.com/presentation/d/13cfrUfpldNc1QGOrgMMKLFrm-CH_zvQTFDtjzaEhWFA/edit?usp=sharing
 ### References :
  - [PYWPH](https://github.com/bregaldo/pywph/blob/main/examples/tutorial.ipynb)
