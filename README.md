@@ -1,7 +1,7 @@
 # Component-Separation
 
 ### Link to the Slides: 
-https://docs.google.com/presentation/d/13cfrUfpldNc1QGOrgMMKLFrm-CH_zvQTFDtjzaEhWFA/edit?usp=sharing
+[Brief description on the methodology](https://docs.google.com/presentation/d/13cfrUfpldNc1QGOrgMMKLFrm-CH_zvQTFDtjzaEhWFA/edit?usp=sharing)
 ### References :
  - [PYWPH](https://github.com/bregaldo/pywph/blob/main/examples/tutorial.ipynb)
  - [CompSep: Statistical component separations in Python using Wavelet Phase Harmonics statistics](https://github.com/constantauclair/CompSep)
